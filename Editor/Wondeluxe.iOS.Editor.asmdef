@@ -1,0 +1,19 @@
+{
+    "name": "Wondeluxe.iOS.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b338bbc79b82c4ae28f21c1c2bd308c5",
+        "GUID:d46ae79c13f7344aeaa1e352cc26f1f7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
