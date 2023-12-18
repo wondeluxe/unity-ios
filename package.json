@@ -1,6 +1,6 @@
 {
 	"name": "com.wondeluxe.ios",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"displayName": "Wondeluxe iOS",
 	"description": "Library providing objects and scripts to assist with development targeting iOS devices.",
 	"unity": "2020.3",
