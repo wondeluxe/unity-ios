@@ -5,6 +5,7 @@
 	"description": "Library providing objects and scripts to assist with development targeting iOS devices.",
 	"unity": "2020.3",
 	"unityRelease": "48f1",
+	"documentationUrl": "https://wondeluxe.github.io/unity-docs/ios",
 	"dependencies": {
 		"com.wondeluxe": "1.0.0",
 		"com.wondeluxe.build": "1.0.0"
